@@ -1,10 +1,10 @@
 # phd-programs
 
-Repo that contains Python data-science code, all developed for work related to my PhD dissertation
+Python data-science code, all developed for work related to my PhD dissertation
 
 ## What this repo contains
 
-Scripts and notebooks for cleaning, analysing, and visualising data generated and reported in my disseration. 
+Scripts and notebooks for cleaning, analysing, and visualising data. Also scripts for connecting to APIs to automate the process of getting LLMs to classify legal text.
 
 ## Requirements
 
