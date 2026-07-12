@@ -1,4 +1,4 @@
-# phd-code
+# phd-programs
 
 Python data-science code, developed as part of my PhD dissertation.
 
