@@ -1,6 +1,6 @@
 # phd-programs
 
-Python data-science code, all developed for work related to my PhD dissertation
+Python code, developed as part of research conducted during my PhD dissertation 
 
 ## What this repo contains
 
